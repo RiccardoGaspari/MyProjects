@@ -8,7 +8,6 @@ Welcome to my collection of master projects in electronics engineering! This rep
 - [Projects Overview](#projects-overview)
 - [How to Navigate](#how-to-navigate)
 - [Highlights](#highlights)
-- [Future Updates](#future-updates)
 - [Contact](#contact)
 
 ## About
@@ -51,10 +50,6 @@ Each project folder contains:
 
 - **Collaboration & Learning:**  
   This repository is a testament to my continuous learning process and my ability to collaborate on complex projects.
-
-## Future Updates
-
-I plan to continuously update this repository with new projects, improvements on existing ones, and additional documentation as I further refine my skills and work on new challenges.
 
 ## Contact
 
