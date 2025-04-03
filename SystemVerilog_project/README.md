@@ -1,6 +1,6 @@
 # Bit Flip Computation IP Module
 
-This project implements an IP module that computes the number of bit flips in a given input array. Designed with a modular architecture, it features a high-level hierarchy of sub-modules and a standardized BUS interface, making it easy to integrate into larger digital systems.
+This project implements an IP module that computes bit flip density and cycles/bitflip in a given input array, and raises a flag whenever the density is over a certain threshold. Designed with a modular architecture, it features a high-level hierarchy of sub-modules and a standardized BUS interface, making it easy to integrate into larger digital systems.
 
 ## Project Overview
 
