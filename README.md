@@ -1,6 +1,6 @@
 # Master's Projects in Electronics Engineering
 
-Welcome to my collection of master projects in electronics engineering! This repository houses the projects I completed during my master's degree at the University of Bologna. Each project reflects my hands-on experience, technical expertise, and passion for innovation in the field of electronics.
+Welcome to my collection of master projects in electronics engineering! This repository houses some of the projects I completed during my master's degree at the University of Bologna. Each project reflects my hands-on experience, technical expertise, and passion for innovation in the field of electronics.
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@ Welcome to my collection of master projects in electronics engineering! This rep
 - [Highlights](#highlights)
 - [Future Updates](#future-updates)
 - [Contact](#contact)
-- [License](#license)
 
 ## About
 
@@ -63,7 +62,3 @@ If you have any questions, suggestions, or opportunities for collaboration, feel
 
 - **Email:** ricigas@gmail.com
 - **LinkedIn:** [Riccardo Gaspari](https://www.linkedin.com/in/riccardo-gaspari-25a894254/)
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
